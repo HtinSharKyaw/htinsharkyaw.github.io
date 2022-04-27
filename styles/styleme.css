@@ -1,0 +1,12 @@
+body{
+  background-color: #F8ECD1;
+  font-family: 'Courier New', Courier, monospace;
+  color:  #85586F;
+}
+h1,h2,h3,h4,h5,h6{
+  color : #85586F
+}
+
+span{
+  font-size: 1.2rem;
+}
